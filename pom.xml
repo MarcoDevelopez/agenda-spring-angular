@@ -6,6 +6,8 @@
 	<artifactId>agenda-spring-angular</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
+	
+	<!-- Correo con tomcat 7 y Oracle 11g -->
 
 	<properties>
 		<spring.version>4.0.3.RELEASE</spring.version>
